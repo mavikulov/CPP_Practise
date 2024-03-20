@@ -1,2 +1,2 @@
 # CPP_Practise
-Tasks completed in the course "Learning the C++ language" in YSDA
+Tasks completed in the course "Learning C++" in YSDA
